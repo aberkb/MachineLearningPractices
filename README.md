@@ -8,7 +8,7 @@ This dataset is from kaggle and you can get more information about this dataset 
 ### OUTPUT AND EVALUATION
 
 # Data Cleaning 
-### above, you will see the data after cleaning
+### in first image you will see data before and after cleaning
 
 
 ![datacleaning](https://user-images.githubusercontent.com/33849722/50058594-71a17780-018b-11e9-8dd7-89bf0b7431d3.png)
